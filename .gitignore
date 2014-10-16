@@ -12,3 +12,9 @@ source/stylesheets/screen.css
 vendor
 node_modules
 Gemfile.lock
+## R e knitr
+.Rhistory
+.RData
+Rplots.pdf
+cache/
+figure/
