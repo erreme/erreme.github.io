@@ -62,6 +62,7 @@ do YAML gerado automaticamente (que já está lá), e logo abaixo inclua
 estas configurações globais para o knitr:
 
 ```r
+
 ```{r setup, include=FALSE, cache=FALSE}
 opts_chunk$set(fig.path = "../images",
                fig.align = "center",
@@ -73,6 +74,7 @@ opts_chunk$set(fig.path = "../images",
                tidy = FALSE,
                cache = TRUE)
 ```
+
 ```
 
 De todas estas opções, a principal (e obrigatória!) é a `fig.path =
