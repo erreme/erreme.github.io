@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Um curso de R]]></title>
   <link href="http://erreme.github.io/atom.xml" rel="self"/>
   <link href="http://erreme.github.io/"/>
-  <updated>2014-10-16T16:19:29-03:00</updated>
+  <updated>2014-10-16T18:48:30-03:00</updated>
   <id>http://erreme.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Fernando Mayer & Rodrigo Sant'Ana]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
