@@ -18,3 +18,5 @@ Gemfile.lock
 Rplots.pdf
 cache/
 figure/
+## Emacs
+.#*
